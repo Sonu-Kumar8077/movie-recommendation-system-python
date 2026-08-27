@@ -1,6 +1,6 @@
 __pycache__/
 .env
-data/
+data(notebook-data)/
 logs/
 *.csv
-
+*.pkl
