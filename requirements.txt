@@ -2,7 +2,7 @@ streamlit
 pandas 
 numpy
 requests 
-ast
 scikit-learn
 requests
+python-dotenv
 
